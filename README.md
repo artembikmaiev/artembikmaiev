@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and C++
 - 👨‍🎓 I’m studying in Kyiv National University of Trade and Economics
 
 <!---
